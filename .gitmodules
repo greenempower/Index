@@ -1,0 +1,9 @@
+[submodule "external/frontiers"]
+	path = external/frontiers
+	url = https://gitlab.com/greenempower/frontiers.git
+[submodule "external/philosophies"]
+	path = external/philosophies
+	url = https://gitlab.com/greenempower/philosophies.git
+[submodule "external/constitution"]
+	path = external/constitution
+	url = https://gitlab.com/greenempower/constitution.git
